@@ -6,7 +6,16 @@ img {
   margin-right: auto;
   margin-bottom: 50px;
 }
-
-h1#results {
-  text-indent: 550px;
+h1 {
+  color: olive;
+  font-size: 400%;
+  text-indent: 350px;
+  font-family: monospace;
+}
+p {
+  font-family: monospace;
+  font-size: 150%;
+  text-indent: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
