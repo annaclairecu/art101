@@ -22,12 +22,8 @@ img {
 #content {
   border: dotted 8px;
   border-color: teal;
-
- .row {
-   display: flex;
- }
-
- .homepage {
-    flex: 33.33%;
-    padding: 5px;
- }
+}
+.photo {
+  float: left;
+  width: 33.33%
+}
