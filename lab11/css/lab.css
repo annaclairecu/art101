@@ -1,0 +1,21 @@
+.selected {
+  color: teal;
+}
+
+.selected2 {
+  color: red;
+}
+
+.selected3 {
+  color: orange;
+}
+
+button {
+  border-radius: 8px;
+  background-color: olive;
+  color: white;
+}
+
+.heading {
+  margin-left: -325px;
+}
