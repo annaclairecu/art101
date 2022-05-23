@@ -1,0 +1,56 @@
+h1 {
+  color: olive;
+  font-size: 300%;
+  text-indent: 350px;
+  font-family: monospace;
+}
+p {
+  font-family: monospace;
+  font-size: 150%;
+  text-indent: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+#content {
+  border: dotted 8px;
+  border-color: teal;
+}
+.photo {
+  float: left;
+  width: 33.33%
+}
+#names {
+  color: maroon;
+  font-size: 150%;
+}
+
+#output {
+  color: Green;
+  font-size: 100%;
+}
+button#my-button {
+  border-radius: 10px;
+  background-color: olive;
+  color: white;
+}
+#description1 {
+  color: blue;
+
+}
+.input-output {
+  font-family: cursive;
+  font-size: 125%
+}
+button#button {
+  border-radius: 10px;
+  background-color: olive;
+  color: white;
+}
